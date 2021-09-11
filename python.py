@@ -1,7 +1,7 @@
 import discord
 from discord.ext import commands
 
-TOKEN = "ODgzMzQ2MjQ5NzAzNjQxMTI5.YTImTQ.akA3AMhYkxthzn_bmKz5VuhCtO4"
+TOKEN = "your token" //ใส่ token
 
 client = commands.Bot(command_prefix = '.')
 
